@@ -2,8 +2,8 @@
 #include <HTTPClient.h>
 #include <Servo.h>
  
-const char* ssid = "Varna-Pixel2";
-const char* password = "ae5c2c2088ad";
+const char* ssid = "MyWifi";
+const char* password = "123456789";
 
 Servo riceServo; 
 bool isCooking = false;
