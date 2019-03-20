@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <Servo.h>
 
-const char* wifi_name = "Varna-Pixel2"; // Your Wifi network name here
-const char* wifi_pass = "ae5c2c2088ad";    // Your Wifi network password here
+const char* wifi_name = "MyWifi"; // Your Wifi network name here
+const char* wifi_pass = "123456789";    // Your Wifi network password here
 
 WiFiServer server(80);    // Server will be at port 80
 Servo riceServo; 
